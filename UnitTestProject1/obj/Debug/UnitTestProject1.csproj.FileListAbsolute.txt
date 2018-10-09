@@ -1,0 +1,7 @@
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\bin\Debug\jenkintaskconsole.exe
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\bin\Debug\jenkintaskconsole.pdb
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Pathik\documents\visual studio 2012\Projects\jenkintaskconsole\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

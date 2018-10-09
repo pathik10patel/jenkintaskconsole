@@ -1,0 +1,6 @@
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\bin\Debug\jenkintaskconsole.exe.config
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\obj\Debug\jenkintaskconsole.csprojResolveAssemblyReference.cache
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\bin\Debug\jenkintaskconsole.exe
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\bin\Debug\jenkintaskconsole.pdb
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\obj\Debug\jenkintaskconsole.exe
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintaskconsole\jenkintaskconsole\obj\Debug\jenkintaskconsole.pdb
